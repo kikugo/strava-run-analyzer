@@ -1,0 +1,7 @@
+requests
+pandas
+streamlit
+matplotlib
+plotly
+python-dotenv
+google-generativeai 

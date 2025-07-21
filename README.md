@@ -30,7 +30,7 @@ streamlit run src/app.py
 - Deploy on Streamlit Sharing: Add secrets from .env
 
 ## Screenshots
-(Add images here)
+![Strava Run Analyzer Screenshot](example.png)
 
 ## License
 MIT 
